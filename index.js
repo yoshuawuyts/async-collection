@@ -1,0 +1,5 @@
+exports.mapLimit = require('./map-limit')
+exports.parallelLimit = require('./run-parallel-limit')
+exports.parallel = require('./run-parallel')
+exports.series = require('./run-series')
+exports.waterfall = require('./run-waterfall')
