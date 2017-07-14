@@ -11,6 +11,7 @@
   "dependencies": {
     "map-limit": "0.0.1",
     "run-parallel": "^1.1.6",
+    "run-parallel-limit": "^1.0.3",
     "run-series": "^1.1.4",
     "run-waterfall": "^1.1.3"
   },
