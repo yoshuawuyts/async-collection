@@ -2,7 +2,7 @@
   "name": "async-collection",
   "description": "Collection of async functions",
   "repository": "yoshuawuyts/async-collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "deps": "dependency-check . && dependency-check . --extra --no-dev",
     "start": "node .",
